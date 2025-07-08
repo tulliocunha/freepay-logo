@@ -1,6 +1,6 @@
 # Freepay Logo
 
-This repository contains the official logo files and brand assets for **Freepay** on X (formerly Twitter), including:
+This repository contains the official logo files and brand assets for **Freepay** on socials, including:
 
 - Logo/icon in SVG and PNG formats
 - Avatar
