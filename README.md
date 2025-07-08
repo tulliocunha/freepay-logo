@@ -31,7 +31,7 @@ You are free to:
 
 ---
 
-## Typografy
+## Typography
 
 For branding materials, use the **Departure Mono** typeface.  
 Download and licensing information: [https://departuremono.com/](https://departuremono.com/)
