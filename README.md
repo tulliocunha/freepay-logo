@@ -1,9 +1,7 @@
-<img src="assets/logo/freepay-logo-default.svg" alt="Freepay Logo" width="150" />
+![Freepay Logo](assets/freepay-repo-header.png)
 
 
-
-# Freepay Logo
-
+## About
 This repository contains the official logo files and brand assets for **Freepay** on socials, including:
 
 - Logo/icon in SVG and PNG formats
@@ -30,6 +28,15 @@ You are free to:
 |-------|-----------|---------------------|
 | Blue  | `#1143F0` | Primary brand color |
 | White | `#E8E4DD` | Backgrounds         |
+
+---
+
+## Typografy
+
+For branding materials, use the **Departure Mono** typeface.  
+Download and licensing information: [https://departuremono.com/](https://departuremono.com/)
+
+Font repository [https://github.com/rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono)
 
 ---
 
