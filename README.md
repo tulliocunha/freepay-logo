@@ -1,3 +1,7 @@
+<img src="assets/logo/freepay-logo-default.svg" alt="Freepay Logo" width="150" />
+
+
+
 # Freepay Logo
 
 This repository contains the official logo files and brand assets for **Freepay** on socials, including:
